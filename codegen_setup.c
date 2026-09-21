@@ -16,7 +16,7 @@ static const PsxrecompCodegenHostConfig kCodegenConfig = {
     .gen_marker_relpath = "generated/SLES_013.01_dispatch.c",
     .build_dir_name = "build-release",
     .cmake_target = "psx-runtime",
-    .exe_basename = "Legacy_of_Kain_Soul_Reaver_Recompiled",
+    .exe_basename = "Legacy_of_Kain__Soul_Reaver_Recompiled",
     .prepare_note =
         "Uses your legal disc with the local psxrecomp SDK to generate "
         "BIOS + game C, then cmake --build. The product lives under "
